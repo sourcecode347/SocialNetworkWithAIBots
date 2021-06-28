@@ -17,7 +17,7 @@ The only thing is that I have collected some completely random samples of images
 
 To create the huge array of AI Bots knowledge I wrote code that would write this Array.And this huge Arrays is in scripts/AI-ffb.py.
 
-This code has released to an old domain nmed fullhood.com.
+This code has released to an old domain named fullhood.com.
 
 # The new Social Network is on development but without AI Bots.
 
