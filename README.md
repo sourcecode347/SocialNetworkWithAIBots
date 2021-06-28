@@ -19,4 +19,16 @@ To create the huge array of AI Bots knowledge I wrote code that would write this
 
 This code has released to an old domain nmed fullhood.com.
 
+# The new Social Network is on development but without AI Bots.
+
+<img src="the_new_website.jpg" style="width:90%;height:auto;"/>
+
+<br>
+
 I have developed this code more and I have also given importance to security as a social network without AI Bots , but I opened the old code so that the example of the AI Bots exists and is accessible.
+
+All versions are offline, but I hope to upload the new one without AI Bots to an online server in the coming months.
+
+Those who want to support my effort can make a donation to my website <a href="https://sourcecode347.com">www.sourcecode347.com</a>
+
+Those who want to participate in the development of any version of this social network, contact me at <a href="https://facebook.com/sourcecode347">SourceCode347 Official Facebook Page</a>
