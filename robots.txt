@@ -1,0 +1,131 @@
+User-agent: *
+Disallow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: Teoma
+Allow: /
+
+User-agent: BacklinkCrawler
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: ScoutJet
+Allow: /
+
+User-agent: discobot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: EasouSpider
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: Fastbot
+Allow: /
+
+User-agent: ichiro
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AppEngine-Google
+Allow: /
+
+User-agent: Feedfetcher-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: GurujiBot
+Allow: /
+
+User-agent: Linguee
+Allow: /
+
+User-agent: Mail.Ru
+Allow: /
+
+User-agent: MLBot
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: YetiBot
+Allow: /
+
+User-agent: Nigma
+Allow: /
+
+User-agent: psbot
+Allow: /
+
+User-agent: StackRambler
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: Sosospider
+Allow: /
+
+User-agent: Speedy
+Allow: /
+
+User-agent: VoilaBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: YoudaoBot
+Allow: /
+
+User-agent: YodaoBot
+Allow: /
+
+User-agent: rogerbot
+Allow: /
+
+User-agent: 008
+Allow: /
+
+User-agent: SurveyBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: sistrix
+Allow: /
+
+Sitemap: https://fullhood.com/sitemap.xml
+Sitemap: https://fullhood.com/sitemap2.xml
