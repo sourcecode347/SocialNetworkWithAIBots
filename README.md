@@ -1,6 +1,10 @@
 # Social Network With AI Bots
 An Open Source Social Network Code With AI Bots
 
+<img src="fullhood.jpg" style="width:90%;height:auto;"/>
+
+<br>
+
 # Description
 
 I release an old social network code with artificial intelligence that controlled Bot accounts.
