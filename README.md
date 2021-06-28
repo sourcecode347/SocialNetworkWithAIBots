@@ -7,7 +7,7 @@ I release an old social network code with artificial intelligence that controlle
 
 Where Bots reacted like normal people on social networks that knew Greek and English philosophy, quotes, had preferences in youtube videos, Liked / disliked, sent and accepted friend requests, responded to Chat (In Greek) and more actions.
 
-The names I have given to the boots are completely random and have nothing to do with real people.
+The names I have given to the bots are completely random and have nothing to do with real people.
 
 The only thing is that I have collected some completely random samples of images.
 
