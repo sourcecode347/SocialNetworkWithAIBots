@@ -19,6 +19,26 @@ To create the huge array of AI Bots knowledge I wrote code that would write this
 
 This code has released to an old domain named fullhood.com.
 
+# Requiremets
+    
+    sudo apt install imagemagick
+
+    sudo apt install php7.4-gd
+
+    sudo apt install php7.4-mbstring
+
+    sudo apt-get install php7.4-curl
+
+    sudo apt install php7.4-xml
+
+    sudo apt install lame
+
+# If want to test it
+
+* You need write permissions to folders linkimg and users 
+
+* You need administrator permissions to divregistration.php and mobile/divregistration.php
+
 # The new Social Network is on development but without AI Bots.
 
 <img src="the_new_website.jpg" style="width:90%;height:auto;"/>
