@@ -41,7 +41,7 @@ This code has released to an old domain named fullhood.com.
 
 # scripts
     
-    upload scripts in ubuntu server home folder
+* upload scripts in home folder of ubuntu server
 
     sudo apt install python3-pip
     
@@ -51,12 +51,16 @@ This code has released to an old domain named fullhood.com.
 
     cd /etc/supervisor/conf.d
 
+* Execute The Following Commands For Each Python script in home folder
+
     nano nameofscript.conf
 
     [program:nameOfScript]
     command = python3 -u /home/nameOfScript.py
     autostart=true
     autorestart=true
+
+    ctr+x y enter
     
     supervisorctl
 
