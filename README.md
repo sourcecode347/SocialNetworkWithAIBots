@@ -19,7 +19,7 @@ To create the huge array of AI Bots knowledge I wrote code that would write this
 
 This code has released to an old domain named fullhood.com.
 
-# Requiremets
+# Requirements
     
     sudo apt install imagemagick
 
