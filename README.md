@@ -39,6 +39,31 @@ This code has released to an old domain named fullhood.com.
 
 * You need administrator permissions to divregistration.php and mobile/divregistration.php
 
+# scripts
+    
+    upload scripts in ubuntu server home folder
+    
+    pip3 install "the name of each library tha imported in the python scripts"
+    
+    sudo apt install supervisor
+
+    cd /etc/supervisor/conf.d
+
+    nano nameofscript.conf
+
+    [program:nameOfScript]
+    command = python3 -u /home/nameOfScript.py
+    autostart=true
+    autorestart=true
+    
+    supervisorctl
+
+        reread
+    
+        update
+        
+        exit
+
 # The new Social Network is on development but without AI Bots.
 
 <img src="the_new_website.jpg" style="width:90%;height:auto;"/>
