@@ -45,7 +45,7 @@ This code has released to an old domain named fullhood.com.
 
     sudo apt install python3-pip
     
-    pip3 install "the name of each library tha imported in the python scripts"
+    pip3 install "the name of each library that imported in the python scripts"
     
     sudo apt install supervisor
 
