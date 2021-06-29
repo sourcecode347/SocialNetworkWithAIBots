@@ -42,6 +42,8 @@ This code has released to an old domain named fullhood.com.
 # scripts
     
     upload scripts in ubuntu server home folder
+
+    sudo apt install python3-pip
     
     pip3 install "the name of each library tha imported in the python scripts"
     
