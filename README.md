@@ -7,7 +7,9 @@ An Open Source Social Network Code With AI Bots
 
 # Description
 
-I release an old social network code with artificial intelligence that controlled Bot accounts.
+100% of Code writed by me from the scratch. lol two arrays in scripts/ai-ffb.py writed from my another script.
+
+An old social network code with artificial intelligence that controlled Bot accounts.
 
 Where Bots reacted like normal people on social networks that knew Greek and English philosophy, quotes, had preferences in youtube videos, Liked / disliked, sent and accepted friend requests, responded to Chat (In Greek) and more actions.
 
