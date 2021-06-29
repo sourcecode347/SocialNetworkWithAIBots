@@ -5,6 +5,8 @@ An Open Source Social Network Code With AI Bots
 
 <br>
 
+* In the picture above, one of the bots answers me on the chat
+
 # Description
 
 100% of Code writed by me from the scratch. lol two arrays in scripts/ai-ffb.py writed from my another script.
