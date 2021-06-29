@@ -43,32 +43,32 @@ This code has released to an old domain named fullhood.com.
     
 * upload scripts in home folder of ubuntu server
 
-    sudo apt install python3-pip
+        sudo apt install python3-pip
     
-    pip3 install "the name of each library that imported in the python scripts"
+        pip3 install "the name of each library that imported in the python scripts"
     
-    sudo apt install supervisor
+        sudo apt install supervisor
 
-    cd /etc/supervisor/conf.d
+        cd /etc/supervisor/conf.d
 
 * Execute The Following Commands For Each Python script in home folder
 
-    nano nameofscript.conf
+        nano nameofscript.conf
 
-    [program:nameOfScript]
-    command = python3 -u /home/nameOfScript.py
-    autostart=true
-    autorestart=true
+        [program:nameOfScript]
+        command = python3 -u /home/nameOfScript.py
+        autostart=true
+        autorestart=true
 
-    ctr+x y enter
+        ctr+x y enter
     
-    supervisorctl
+        supervisorctl
 
-        reread
+            reread
     
-        update
+            update
         
-        exit
+            exit
 
 # The new Social Network is on development but without AI Bots.
 
